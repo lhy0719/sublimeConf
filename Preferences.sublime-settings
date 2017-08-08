@@ -16,6 +16,19 @@
 	"font_size": 15,
 	"ignored_packages":
 	[
+		"ChineseLocalizations",
+		"CSS Format",
+		"CSS Snippets",
+		"DocBlockr",
+		"FileHeader",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"RailsCasts Colour Scheme",
+		"SublimeGit",
+		"SublimeLinter-jshint",
+		"Theme - Gravity",
+		"Theme - Soda",
+		"Themr",
 		"Vintage"
 	],
 	"rulers":
