@@ -1,0 +1,28 @@
+
+** 2016-11-25 16:42:46.778691 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2016-11-29 18:24:36.742783 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2016-11-29 18:32:42.905394 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"c:\\go\\pkg\\windows_amd64;C:\\Go\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"c:\\go", GOPATH:"C:\\Go", InstallSuffix:""}
+
+** 2016-12-02 18:30:39.540816 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+Gocode pkg: "goAction"
+Gocode env: gocode.margoEnv{LibPath:"c:\\go\\pkg\\windows_amd64;D:\\godev\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"c:\\go", GOPATH:"D:\\godev", InstallSuffix:""}
+Gocode pkg: "goAction"
+Gocode env: gocode.margoEnv{LibPath:"c:\\go\\pkg\\windows_amd64;D:\\godev\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"c:\\go", GOPATH:"D:\\godev", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"c:\\go\\pkg\\windows_amd64;D:\\godev\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"c:\\go", GOPATH:"D:\\godev", InstallSuffix:""}

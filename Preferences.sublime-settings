@@ -1,0 +1,26 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "/",
+			"selector": "string.quoted.double.html,string.quoted.single.html, source.css"
+		}
+	],
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"default_encoding": "UTF-8",
+	"font_face": "YaHei Consolas Hybrid",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+	],
+	"tab_size": 4,
+	"theme": "Boxy Monokai.sublime-theme"
+}
